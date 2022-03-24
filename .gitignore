@@ -1,0 +1,8 @@
+#Exclude everything then get files labelled pesepay only
+*
+!*/
+!pesepay.*
+*.zip
+!/.gitignore
+!/README.md
+!/license.txt
